@@ -1,2 +1,11 @@
-# gtm-customisation-template
-GTM template to customise the Contentsquare implementation via Custom and Dynamic variables, page events and much more
+# Contentsquare - GTM implementation customisation template
+Use this template to fire:
+
+- Artificial pageviews
+- Add to cart events
+- Standard page events
+- ETP events
+- ETS events
+- Dynamic variables
+
+Without having to edit a single line of code!
