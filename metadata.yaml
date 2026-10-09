@@ -1,6 +1,8 @@
 homepage: "https://contentsquare.com/"
-documentation: "https://docs.contentsquare.com/uxa-en/"
+documentation: "https://docs.contentsquare.com/en/web/"
 versions:
+  - sha: 60ad097a5e8110f67a424a442f9b24ed680d64fc
+    changeNotes: Updated brand thumbnail image
   - sha: 98cbb550c34c911a1f53c96721a3f2fbce5e5525
     changeNotes: Updated company logo
   - sha: dd912bb13134416e2b1efdd5f26757fe8e36d8dc
